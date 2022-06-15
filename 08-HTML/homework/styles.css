@@ -1,9 +1,11 @@
 h1 {
     color: tomato;
 }
+
 img {
     width: 400px;
 }
+
 #thirdDiv {
     height: 600px;
     width: 500px;
@@ -11,7 +13,23 @@ img {
     padding: 50px;
     border: 5px, tomato;
 }
+
 #spanId {
     font-size: 18px;
     margin: 50px;
+}
+
+body {
+    background-image: url("https://w7.pngwing.com/pngs/1008/972/png-transparent-goku-gohan-videl-chi-chi-trunks-goku-fictional-character-trunks-cartoon-thumbnail.png") ;
+}
+
+div {
+    margin: auto;
+}
+
+html {
+    margin: auto;
+    height: 600px;
+    width: 500px;
+    text-align: justify
 }
